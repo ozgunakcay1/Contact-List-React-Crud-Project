@@ -1,0 +1,46 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #e3e0e0;
+    color: black;
+    font-family: 'Cairo', sans-serif;
+    
+}
+
+button{
+    border: none;
+    outline: none;
+    background-color: transparent ;
+ 
+ 
+    font-family: 'Cairo', sans-serif;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+        &:hover{
+        background: rgba(128, 128, 128, 0.242);
+        filter: brightness(60%);
+
+        } 
+}
+
+input {
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    font-family: 'Cairo', sans-serif;
+    border-radius: 10px;
+       
+        
+};
+
+a{
+    color: black;
+    text-decoration: none;
+}

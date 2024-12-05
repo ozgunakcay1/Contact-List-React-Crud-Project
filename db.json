@@ -1,0 +1,92 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "company": "Tech Solutions",
+      "phone": "111-222-3333",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "Product Manager",
+      "company": "Innovatech",
+      "phone": "222-333-4444",
+      "email": "janesmith@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "position": "UX Designer",
+      "company": "Creative Studio",
+      "phone": "333-444-5555",
+      "email": "michaelbrown@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Emily Johnson",
+      "position": "Data Scientist",
+      "company": "Analytics Experts",
+      "phone": "444-987-6543",
+      "email": "emilyjohnson@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Ozgun Akcay",
+      "position": "Project Manager",
+      "company": "Global Solutions",
+      "phone": "333-222-1111",
+      "email": "ahmedali@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Sara Lee",
+      "position": "UX Researcher",
+      "company": "Design Hub",
+      "phone": "222-333-4444",
+      "email": "saralee@example.com"
+    },
+    {
+      "name": "David Bill",
+      "position": "IT Specialist",
+      "company": "Network Wizards",
+      "phone": "111-222-3333",
+      "email": "liambrown@example.com",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Olivia Davis",
+      "position": "Human Resources",
+      "company": "People First",
+      "phone": "999-888-7777",
+      "email": "oliviadavis@example.com"
+    },
+    {
+      "id": 9,
+      "name": "Noah Wilson",
+      "position": "Finance Analyst",
+      "company": "Money Matters",
+      "phone": "888-777-6666",
+      "email": "noahwilson@example.com"
+    },
+    {
+      "id": 10,
+      "name": "Ava Martinez",
+      "position": "Sales Representative",
+      "company": "Global Ventures",
+      "phone": "777-666-5555",
+      "email": "avamartinez@example.com"
+    },
+    {
+      "id": 11,
+      "name": "Alice Green",
+      "position": "Graphic Designer",
+      "company": "Visual Arts Co.",
+      "phone": "567-890-1234",
+      "email": "alicegreen@example.com"
+    }
+  ]
+}
