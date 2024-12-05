@@ -1,8 +1,11 @@
-# React + Vite
+ContactList React CRUD Project, Contact management application built using React, Axios, JSON Server, HTML, CSS, SCSS, Javascript 
+The website is fully responsive, ensuring optimal viewing across various devices. 
+The app allows users to add, edit, and delete contacts, and integrates with an API for storing and retrieving contact data.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# Technologies React, Axios, JSONServer, HTML, CSS, SCSS, Javascript
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+https://github.com/user-attachments/assets/f19b6cbd-385b-45e7-aad3-41f078460e6a
+
